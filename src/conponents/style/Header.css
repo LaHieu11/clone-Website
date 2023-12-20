@@ -1,0 +1,28 @@
+
+
+.Menu {
+    color: #FFFFFF;
+}
+
+.Logo {
+    color: #FFFFFF;
+}
+
+/* Trong file Header.css */
+.content {
+    margin-left: 20px; /* Thêm khoảng trắng bên trái */
+    margin-right: 20px; /* Thêm khoảng trắng bên phải */
+    margin: 0 auto;
+    background-color: #000000;
+  }
+  
+  /* Các phần tử con của Menu */
+  .Menu ul li {
+    margin-right: 10px; /* Thêm khoảng trắng giữa các mục trong Menu */
+  }
+  
+  /* Các phần tử con của Menuchoice */
+  .Menuchoice {
+    margin-left: 10px; /* Thêm khoảng trắng bên trái */
+  }
+  
